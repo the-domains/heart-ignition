@@ -1,0 +1,28 @@
+name: Heart ignition
+favicon: null
+layout_spectrum: 0.9578980938531458
+typography_spectrum: 0.5202351675834507
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.48750683781690896
+  lightness: 0.28832916053943336
+  saturation: 0.5126192213501781
+  rhythmicContrast: 0.16772252158261836
+purpose: []
